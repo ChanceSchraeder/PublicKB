@@ -47,7 +47,7 @@
 </p>
 <p><strong>A:&nbsp;</strong>Bucket Administrators can use the CenturyLink Cloud Control Portal to create users, create buckets, and secure buckets. Object users and developers have their choice of numerous best-of-breed tools for interfacing with objects.</p>
 <div></div>
-<p><strong>Q: So what exact do I do in the Control Portal vs. 3rd party tools?</strong>
+<p><strong>Q: So what exactly do I do in the Control Portal vs. 3rd party tools?</strong>
 </p>
 <p><strong>A</strong>: The following breakdown explains what is available in the Control Portal and what you should use 3rd party tools for:</p>
 <table>
